@@ -1,2 +1,1 @@
-[# My Protfolio](https://kumargudu.github.io/Protfolio/) 
-https://kumargudu.github.io/Protfolio/
+[My Protfolio](https://kumargudu.github.io/Protfolio/) 
